@@ -1,5 +1,4 @@
-pipenv
+
 streamlit
 pillow
-lilypond
 subprocess
